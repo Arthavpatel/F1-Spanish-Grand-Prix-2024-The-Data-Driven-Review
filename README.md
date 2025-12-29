@@ -155,19 +155,4 @@ Acknowledgements & data sources
 - Any public datasets, APIs, or scraping scripts used to gather race data
 - Libraries used: Pandas, NumPy, Matplotlib/Seaborn, D3/Plotly (update as appropriate)
 
-Notes / To-do
-------------
-- Add a LICENSE file
-- Add a CONTRIBUTING.md with contribution workflow and code style
-- Provide a `requirements.txt` and (if needed) `package.json` to simplify setup
-- Add screenshots and GIFs to show highlights of the visualizations
 
-Need this customized?
----------------------
-If you want, I can:
-- generate a shorter README or a one-page summary,
-- include example badges (build, license, languages),
-- auto-detect repository files and fill the Project structure with exact file names,
-- add a license file (MIT or another) and populate it.
-
-Tell me which of the above you'd like me to do next and I will create or update files accordingly.
